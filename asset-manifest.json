@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bde13218.css",
+    "main.js": "./static/js/main.641dffae.js",
+    "static/media/1.webp": "./static/media/1.bfad3d8a5bce2c8ad765.webp",
+    "static/media/2.jpg": "./static/media/2.16ada3615f34c459963b.jpg",
+    "static/media/3.webp": "./static/media/3.ba9889a2552bf16e4e5b.webp",
+    "static/media/5.webp": "./static/media/5.e6c81d78e046bdabbd0f.webp",
+    "static/media/4.webp": "./static/media/4.9d61f225f8bfcfbb6fc8.webp",
+    "static/media/6.webp": "./static/media/6.94ade2a6f23cbcc400e8.webp",
+    "static/media/1.jpg": "./static/media/1.6c75f64d03b52af30527.jpg",
+    "static/media/礼花.png": "./static/media/礼花.8b4093f1f22c6e201485.png",
+    "static/media/三角.png": "./static/media/三角.2e83ac4a592a8910ab83.png",
+    "static/media/开关.png": "./static/media/开关.d7fb891b8446a4bc3313.png",
+    "index.html": "./index.html",
+    "main.bde13218.css.map": "./static/css/main.bde13218.css.map",
+    "main.641dffae.js.map": "./static/js/main.641dffae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde13218.css",
+    "static/js/main.641dffae.js"
+  ]
+}
